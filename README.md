@@ -75,8 +75,6 @@ Verified changes to ensure cleaning steps were applied correctly
 🔹 UNIVARIATE ANALYSIS
 1️⃣ Manufacturer Distribution (Make)
 
-Your comment (captured):
-
 A few manufacturers dominate the dataset, while many appear only a few times.
 
 Expanded insight:
@@ -201,7 +199,7 @@ Either metric can serve as a proxy when the other is unavailable.
 
 # SPORTS cars exhibit the highest price dispersion driven largely by European brands.
 # SEDANS form the largest and most diverse segment, while SUVs and TRUCKs show more standardized pricing
--- Price varies noticeably across origins and car types.
+ Price varies noticeably across origins and car types.
 
 Expanded insight:
 
@@ -218,7 +216,7 @@ Ignoring origin would oversimplify pricing dynamics.
  ENGINE SIZE-
 # Most variation: Sports
 # Least variation: Hybrid
-# Higher typical size: Truck,=
+# Higher typical size: Truck
 
 Expanded insight:
 
@@ -254,6 +252,7 @@ The project demonstrates a structured EDA approach, combining data cleaning, vis
 
 ⭐ NOTES 
 This project focuses on clarity, reasoning, and explainability, prioritizing why each step is performed rather than just how.
+
 
 
 
